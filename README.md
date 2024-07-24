@@ -15,7 +15,7 @@ Project details COMING SOON
 <b>Analyzing Insurance Dividend Rates vs. Interest Rates for Investment Decision-Making</b>  
 - Skills: Python for Machine Learning Modeling, Excel, Tableau for Data Visualization
   
-Project details COMING SOON
+Project details [here](https://github.com/sungchian/insurance-dividend-rates-vs-interest-rates-for-investment-decision-making.git)
 
 <b>Ruined-Fruit Detection</b>  
 - Skills: Deep Learning and Neural Networks, MySQL, Data Modeling
