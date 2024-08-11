@@ -20,7 +20,7 @@ Project details [here](https://github.com/sungchian/insurance-dividend-rates-vs-
 <b>Ruined-Fruit Detection</b>  
 - Skills: Deep Learning and Neural Networks, MySQL, Data Modeling
   
-Project details COMING SOON  
+Project details [here](https://github.com/sungchian/DeepLearning-Ruined-Fruit-Detection.git) 
 
 <b>Alzheimer Prediction</b>  
 - Skills: Predictive Analytics, R
