@@ -42,6 +42,11 @@ Project details COMING SOON
   
 Project details [here](https://github.com/sungchian/collision-analysis.git)
 
+<b>Diversity and Inclusion</b>    
+- Skills: Data Analysis, PowerBI, Defining KPIs, Insights and Actions
+  
+Project details [here](https://github.com/sungchian/Diversity-and-Inclusion.git)
+
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
