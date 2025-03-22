@@ -6,7 +6,12 @@ So why analytics? Analytics is like creating a narrative for data. It turns the 
 
 Here are some projects that I have worked on.
 
-## :desktop_computer: Projects  
+## :desktop_computer: Projects
+<b>Marketing Campaign Analysis</b>  
+- Skills: Python, EDA, Plotly for Data Visualization, Marketing Analysis, Data Analysis, Business Analysis
+  
+Project details [here](https://github.com/sungchian/Marketing-Campaign-Analysis.git)
+
 <b>Real Estate Analysis</b>  
 - Skills: Python, Web Scraping, Tableau for Data Visualization, AWS, Data Analysis
   
